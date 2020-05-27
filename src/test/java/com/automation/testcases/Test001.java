@@ -7,7 +7,7 @@ public class Test001 {
 
 
     public static void main(String[] args) {
-        // declaration and instantiation of objects/variables
+        // declaration and instantiation of objects/variables..
     	System.setProperty("webdriver.chrome.driver", "E:\\SELENIUM\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		//comment the above 2 lines and uncomment below 2 lines to use Chrome
